@@ -1,0 +1,10 @@
+# Compiled binaries
+bin/*
+
+# Object files
+*.o
+
+# Editor and OS files
+.vscode/
+.idea/
+.DS_Store
